@@ -2,13 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Ralph;Figurasin;;;
-FN: Figurasin  Ralph 
+FN: Ralph  Figurasin 
 ORG:RALPH DESIGNS;
 TITLE:Graphic Designer
 EMAIL;type=INTERNET;type=WORK;type=pref:ralphfigurasin16@gmail.com
 TEL;type=WORK;type=VOICE:+12046887675
 item1.ADR;type=WORK;type=pref:;;
-item1.X-ABADR:sg
+item1.X-ABADR:
 item2.URL;type=pref:ralphfigurasin16.wixsite.com/ralph
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
